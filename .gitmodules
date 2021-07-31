@@ -1,0 +1,3 @@
+[submodule "GitSubWebUI/wwwroot/GitSubAssets"]
+	path = GitSubWebUI/wwwroot/GitSubAssets
+	url = https://github.com/JustJordanT/GitSubAssets
